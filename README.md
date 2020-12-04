@@ -1,1 +1,1 @@
-# cakephp-selfstudy
+# CakePHP-SelfStudy
